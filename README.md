@@ -1,4 +1,3 @@
-# Backend Assessment Submission
 
 Name:Raj Bhatta
 Email: bhatt11y@uwindsor.ca
