@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.hatchways.models;
+package com.raj.models;
 
 /**
  * @author mypc
